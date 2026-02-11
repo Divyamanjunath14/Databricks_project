@@ -11,6 +11,10 @@ This project follows the Medallion Architecture:
 - Data cleaning and standardization
 - Type casting and validation
 
+## 🥇 Gold Layer
+- Dimensional Data Model (Business Transformation)
+- Ready for BI and analysis
+
 ## 🛠️ Technologies Used
 - Databricks
 - Apache Spark
